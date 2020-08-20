@@ -10,8 +10,10 @@
 ---
 
 <p align="center">
-  
-
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/eugustavo/nextjs-chakraui" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/eugustavo/nextjs-chakraui" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/eugustavo/nextjs-chakraui" />
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/eugustavo/nextjs-chakraui" />
 </p>
 
 <p align="center">
